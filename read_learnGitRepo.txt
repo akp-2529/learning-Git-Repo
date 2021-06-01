@@ -1,0 +1,8 @@
+							||  learnGitRepo ||br
+1. check 1.
+<<<<<<< HEAD
+2. check 2. [changes in branch beginnerDev.]
+=======
+2. check 2. [changes in branch beginnerDev.]
+3. check 3. [2nd changes in branch beginnerDev.]
+>>>>>>> beginnerDev
